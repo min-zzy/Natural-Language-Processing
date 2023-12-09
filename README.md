@@ -15,3 +15,22 @@ This assignment focuses on building and experimenting with neural networks for P
 
 - A feed-forward neural network with word embeddings and context window.
 - Experimentation with different context window sizes and feature engineering.
+
+## Assignment 2: Pretrained Language Models
+
+This assignment explores the use of BERT and GPT-2 pretrained language models for downstream tasks.
+
+### Tasks
+
+1. **Classification with BERT [CLS] Features**
+   - Implementing a classifier using [CLS] token features from BERT.
+   - Experimentation with frozen and fine-tuning BERT features.
+
+2. **Comparison of Pooling Techniques**
+   - Investigating the effectiveness of different pooling techniques like first-token, mean pooling, and max pooling.
+
+3. **Fine-tuning BERT**
+   - Fine-tuning the last two layers of BERT and comparing results with frozen features.
+
+4. **Extra Credit: GPT-2**
+   - Implementing GPT-2 as a feature extractor for classification tasks.
