@@ -1,10 +1,10 @@
 # NLP Projects: POS Tagging and Pretrained Language Models
 
-This repository contains my implementations for two key assignments in Natural Language Processing (NLP): Part-of-Speech (POS) Tagging using Neural Networks and exploring Pretrained Language Models.
+This repository contains my implementations for two key Natural Language Processing (NLP) projects: Part-of-Speech (POS) Tagging using Neural Networks and exploring Pretrained Language Models.
 
 ## Project 1: Neural Networks for POS Tagging
 
-This assignment focuses on building and experimenting with neural networks for POS tagging of English tweets. The approach involves using a feed-forward neural network that predicts the POS tag of a word token given its context. 
+This assignment focuses on building and experimenting with neural networks for POS tagging English tweets. The approach involves using a feed-forward neural network that predicts the POS tag of a word token given its context. 
 
 ### Data
 
@@ -18,7 +18,7 @@ This assignment focuses on building and experimenting with neural networks for P
 
 ## Project 2: Pretrained Language Models
 
-This assignment explores the use of BERT and GPT-2 pretrained language models for downstream tasks.
+This assignment explores using BERT and GPT-2 pre-trained language models for downstream tasks.
 
 ### Tasks
 
