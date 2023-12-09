@@ -32,5 +32,11 @@ This assignment explores the use of BERT and GPT-2 pretrained language models fo
 3. **Fine-tuning BERT**
    - Fine-tuning the last two layers of BERT and comparing results with frozen features.
 
-4. **Extra Credit: GPT-2**
+4. **GPT-2**
    - Implementing GPT-2 as a feature extractor for classification tasks.
+
+## Repository Structure
+
+- `src/`: Contains source code for the assignments.
+- `data/`: Contains datasets used in the assignments.
+- `results/`: Contains output results and analysis.
