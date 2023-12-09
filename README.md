@@ -37,6 +37,5 @@ This assignment explores the use of BERT and GPT-2 pretrained language models fo
 
 ## Repository Structure
 
-- `src/`: Contains source code for the assignments.
 - `data/`: Contains datasets used in the assignments.
 - `results/`: Contains output results and analysis.
